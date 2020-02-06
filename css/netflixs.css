@@ -1,0 +1,47 @@
+.principal{
+    background-size: cover;
+    color: silver;
+}
+#banner{
+    padding-left: 20%;
+}
+.Texto{
+padding-left: 13%;
+padding-right: 13%;
+}
+.peliculas{
+    width: 12%;
+    text-align: center;
+    overflow: hidden;
+}
+.textoDePelicula{
+    padding-top: 10px;
+    font-family: 'Marvel', sans-serif;
+}
+.Dardevil:hover{
+background-color: darkred;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.jones:hover{
+background-color: darkblue;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.iron:hover{
+background-color: yellow;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+color: black;
+}
+.punisher:hover{
+background-color: gray;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.cage:hover{
+background-color: rgb(255, 153, 0);
+-webkit-transform:scale(1.3);transform:scale(1.3);
+color: black;
+}
+.Defenders:hover{
+    background: linear-gradient(darkred, darkblue, yellow, rgb(255, 153, 0));
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+    color:black;
+}

@@ -1,0 +1,16 @@
+.principal{
+    background-size: cover;
+    color: white
+}
+#banner{
+   text-align: center;
+   color:white
+}
+.textoCentral{
+    font-family: 'Marvel', sans-serif;
+}
+.fasesUCM{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+}

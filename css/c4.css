@@ -1,0 +1,13 @@
+.principal{
+    background-color: black;
+    color: silver;
+}
+#banner{
+    padding-left: 10%;
+}
+.textoCentral{
+    font-family: 'Marvel', sans-serif;
+}
+.juego{
+    text-align: center;
+}

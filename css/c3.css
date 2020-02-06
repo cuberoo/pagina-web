@@ -1,0 +1,26 @@
+.principal{
+    background-size: cover;
+    color: white;
+}
+#banner{
+   text-align: center;
+}
+.textoCentral{
+    font-family: 'Marvel', sans-serif;
+    text-align: center;
+}
+.series{
+text-align: center;
+
+}
+.netflix{
+    padding-left: 10%;
+    margin: 20%;
+}
+.disney{
+    margin:20%;
+}
+
+
+
+

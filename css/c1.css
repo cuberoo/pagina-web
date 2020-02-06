@@ -1,0 +1,23 @@
+.principal{
+    background-size: cover;
+    color: black;
+}
+#banner{
+   text-align: center;
+}
+.textoCentral{
+    font-family: 'Marvel', sans-serif;
+}
+.Texto{
+text-align: center;
+}
+.peliculas{
+    width: 12%;
+    text-align: center;
+    overflow: hidden;
+}
+.textoDePelicula{
+    padding-top: 10px;
+    color: white;
+}
+

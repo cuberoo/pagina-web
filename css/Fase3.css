@@ -1,0 +1,66 @@
+.principal{
+    background-color: black;
+    color: silver;
+}
+#banner{
+   margin-left: 16%;
+}
+.textoCentral{
+    font-family: 'Marvel', sans-serif;
+}
+.Texto{
+padding-left: 13%;
+padding-right: 13%;
+}
+.peliculas{
+    width: 18%;
+    text-align: center;
+    overflow: hidden;
+}
+.textoDePelicula{
+    padding-top: 10px;
+}
+.iron-man:hover{
+background-color: red;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.guardianes:hover{
+background-color: darkred;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.thor:hover{
+background-color: silver;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+color: black;
+}
+.capi:hover{
+background-color: blue;
+-webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.vengadores:hover{
+    background:linear-gradient( darkred,rgb(104, 20, 240) ,rgb(190, 134, 12));
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+    color: black;
+}
+.hormiga:hover{
+    background-color: saddlebrown;
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.spidey:hover{
+    background: linear-gradient(darkblue, red);
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.marvel:hover{
+    background: linear-gradient(yellow, red);
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+    color: black;
+}
+.pantera:hover{
+    background-color: black;
+    color: white;
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+}
+.strange:hover{
+    background: linear-gradient(red,yellow,blue);
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+}
