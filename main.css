@@ -1,0 +1,92 @@
+.principal{
+    background-size: cover;
+}
+#divPrincipal {
+    width: 97%;
+    margin: 0 auto;
+}
+
+#banner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+}
+.fases{
+    text-align: center;
+    color: white;
+}
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    width: 99%;
+    background-color: darkred;
+}
+.tablaDelMenu{
+    color: silver;
+    width: 50%;
+}
+
+.c1:hover{
+    background-color: red;
+}
+
+.c2:hover{
+    background-color: red;
+}
+
+.c3:hover{
+    background-color: red;
+}
+
+.c4:hover{
+    background-color: red;
+}
+
+.f1:hover{
+    color: blue;
+    background-color: rgb(73, 71, 71);
+}
+
+.f2:hover{
+    color: blue;
+    background-color: rgb(73, 71, 71);
+}
+
+.f3:hover{
+    color: blue;
+    background-color: rgb(73, 71, 71);
+}
+
+.tablaMarvel{    
+    margin-top: 5%;
+    margin-left: 21%;
+    margin-right: auto;
+    float: inline-start;
+    text-align: center;
+    background-color: black;
+    opacity: 0.8;
+    }
+.lista{    
+color: silver;
+}
+.formulario{
+    text-align: center;
+    color: white;
+    margin: 22%;
+    margin-top: 50%;
+    background-color: rgb(0, 71, 71);
+   
+}
+.li{
+    margin-top:20px ;
+    margin-bottom: 20px;
+}
+.enlace{
+    color:white;
+}
+.enlace1{
+    color: black;
+}
+    
